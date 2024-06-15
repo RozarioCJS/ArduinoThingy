@@ -3,4 +3,4 @@
 
 <h1>Other Features</h1>
 <p>Allows you to scan and check for ports, connect, disconnect, clear the lcd screen and send text to the lcd screen</p>
-[![Demonstration](https:/img.youtube.com/vi/7D-hWgXorAo/0.jpg)](https://www.youtube.com/watch?v=7D-hWgXorAo)
+Demo: https://www.youtube.com/watch?v=7D-hWgXorAo
